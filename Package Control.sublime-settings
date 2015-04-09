@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSSLint",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Gutter Color",
+		"Modific",
+		"Package Control",
+		"PlainNotes",
+		"PlainTasks",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"Theme - Soda"
+	]
+}
