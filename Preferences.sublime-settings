@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"draw_minimap_border": false,
 	"font_size": 10,
 	"highlight_line": true,
