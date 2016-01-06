@@ -1,28 +1,30 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"Alignment",
+		"AngularJS",
 		"AutoFileName",
-		"Bootstrap 3 Snippets",
-		"Color Highlighter",
-		"ColorPicker",
-		"CSSLint",
-		"DocBlockr",
+		"Autoprefixer",
 		"Emmet",
 		"Emmet Css Snippets",
-		"FileDiffs",
-		"Git",
 		"GitGutter",
 		"Gutter Color",
-		"Modific",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JSONLint",
+		"LiveReload",
+		"Markdown Preview",
+		"Markmon real-time markdown preview",
 		"Package Control",
-		"PlainNotes",
-		"PlainTasks",
-		"SublimeLinter",
-		"SublimeLinter-cppcheck",
+		"Seti_UI",
+		"Seti_UX",
+		"SublimeCodeIntel",
+		"SummitLinter",
+		"SVG Icons",
 		"Theme - Soda"
 	]
 }

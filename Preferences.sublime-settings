@@ -1,5 +1,4 @@
 {
-	
 	"bold_folder_labels": true,
 	"caret_style": "solid",
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
@@ -23,6 +22,6 @@
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap":true
-}
+	"word_wrap": true,
+	"theme": "Seti.sublime-theme"
 }
