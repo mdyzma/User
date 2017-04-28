@@ -1,23 +1,22 @@
 {
-    "always_show_minimap_viewport": true,
-    "bold_folder_labels": true,
-    "color_scheme": "Packages/User/SublimeLinter/Galea (SL).tmTheme",
-    "ensure_newline_at_eof_on_save": true,
-    "find_selected_text": true,
-    "font_size": 11,
-    "highlight_modified_tabs": true,
-    "ignored_packages":
-    [
-        "RestructuredText",
-        "Vintage"
-    ],
-    "indent_guide_options":
-    [
-        "draw_normal",
-        "draw_active"
-    ],
-    "scroll_past_end": true,
-    "theme": "Centurion.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "word_wrap": true
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Centurion/Galea.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"scroll_past_end": true,
+	"theme": "Centurion.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
 }
