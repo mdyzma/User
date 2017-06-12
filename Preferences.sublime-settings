@@ -1,4 +1,8 @@
 {
+	"added_words":
+	[
+		"Ubuntu"
+	],
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Centurion/Galea.tmTheme",
@@ -16,6 +20,7 @@
 		"draw_active"
 	],
 	"scroll_past_end": true,
+	"spell_check": true,
 	"theme": "Centurion.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
